@@ -3,3 +3,5 @@ function addSum() {
 }
 
 addSum();
+
+console.log("checking");
